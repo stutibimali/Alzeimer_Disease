@@ -1,1 +1,1 @@
-Alzheimer_s_Disease_and_Healthy_Aging_Data
+Alzheimer's Disease and Healthy Aging Data
